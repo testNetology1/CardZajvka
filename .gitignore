@@ -1,4 +1,3 @@
-.idea
 Thumbs.db*
 .DS_Store
 HELP.md
@@ -44,3 +43,8 @@ out/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privac
